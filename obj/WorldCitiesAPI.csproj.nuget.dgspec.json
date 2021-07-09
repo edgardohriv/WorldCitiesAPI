@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ppg\\WorldCitiesNetCore\\WorldCitiesAPI\\WorldCitiesAPI.csproj": {}
+    "C:\\PROYECTOS\\WorldCitiesAPI\\WorldCitiesAPI\\WorldCitiesAPI\\WorldCitiesAPI.csproj": {}
   },
   "projects": {
-    "C:\\ppg\\WorldCitiesNetCore\\WorldCitiesAPI\\WorldCitiesAPI.csproj": {
+    "C:\\PROYECTOS\\WorldCitiesAPI\\WorldCitiesAPI\\WorldCitiesAPI\\WorldCitiesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ppg\\WorldCitiesNetCore\\WorldCitiesAPI\\WorldCitiesAPI.csproj",
+        "projectUniqueName": "C:\\PROYECTOS\\WorldCitiesAPI\\WorldCitiesAPI\\WorldCitiesAPI\\WorldCitiesAPI.csproj",
         "projectName": "WorldCitiesAPI",
-        "projectPath": "C:\\ppg\\WorldCitiesNetCore\\WorldCitiesAPI\\WorldCitiesAPI.csproj",
-        "packagesPath": "C:\\Users\\D055808\\.nuget\\packages\\",
-        "outputPath": "C:\\ppg\\WorldCitiesNetCore\\WorldCitiesAPI\\obj\\",
+        "projectPath": "C:\\PROYECTOS\\WorldCitiesAPI\\WorldCitiesAPI\\WorldCitiesAPI\\WorldCitiesAPI.csproj",
+        "packagesPath": "C:\\Users\\Edgardo\\.nuget\\packages\\",
+        "outputPath": "C:\\PROYECTOS\\WorldCitiesAPI\\WorldCitiesAPI\\WorldCitiesAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\D055808\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Edgardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
